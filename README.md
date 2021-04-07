@@ -1,6 +1,6 @@
 ## Send Emails through Python using SMTP server
 
-### *Jupyter Notebook IDE is used to code and Sendgrid APIs used as a SMTP server*
+### *⭐Jupyter Notebook IDE is used to code and Sendgrid APIs used as a SMTP server⭐*
 
 ## *Integration of the SMTP server through Sendgrid :*
 <ul>
