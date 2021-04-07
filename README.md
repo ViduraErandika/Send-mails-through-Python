@@ -11,7 +11,6 @@
 </ul>
 
 ## *Update the python code in Jupyter Notebook :*
-
 <ul>
   <li>Attach the CSV file which includes the destination mails.</li> <br> 
 </ul>
@@ -35,7 +34,6 @@ from email.mime.multipart import MIMEMultipart
 
 log = pd.read_csv('/Users/vidur/Downloads/csv-test.csv', encoding='utf-8')    #enter your sending mails csv file HERE
 ```
-
 <ul>
   <li>Update APIkey and password in followinf send_mail function.</li> <br> 
 </ul>
@@ -77,7 +75,6 @@ def send_email(name,email,username,password,ref,i,teamname):
         failed.append(i)
         print("FAILED! - "+ str(destination))
 ```
-
 <ul>
   <li>Run all the cells starting from 0.</li> <br> 
 </ul>
